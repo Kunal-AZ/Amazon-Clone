@@ -7,6 +7,12 @@ A responsive Amazon homepage clone built using **HTML5** and **CSS3**. This proj
 ## 📸 Preview
 
 ![Amazon Clone Preview](images/preview.png)
+![Amazon Clone Preview](images/preview2.png)
+![Amazon Clone Preview](images/preview3.png)
+![Amazon Clone Preview](images/preview4.png)
+
+
+
 
 > *Replace `preview.png` with a screenshot of your project.*
 
