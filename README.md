@@ -148,7 +148,7 @@ git push origin feature-name
 **Kunal Sharma**
 
 * GitHub: https://github.com/Kunal-AZ
-* LinkedIn: *(Add your LinkedIn profile)*
+* LinkedIn:(https://www.linkedin.com/in/kunal-sharma-8309a6287/)
 
 ---
 
